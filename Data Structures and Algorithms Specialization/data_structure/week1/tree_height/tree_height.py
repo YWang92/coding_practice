@@ -11,12 +11,16 @@ from collections import namedtuple
 Vertex = namedtuple("Vertex", ['index', 'children'])
 
 class TreeHeight:
-    def read(self):
-        self.n = int(sys.stdin.readline())
-        self.parent = list(map(int, sys.stdin.readline().split()))
+    def read(self, input = []):
+        if not input:
+            self.n = int(sys.stdin.readline())
+            self.parent = list(map(int, sys.stdin.readline().split()))
+        else:
+            self.n = int( input[0] )
+            self.parent = list(map(int, input[1].split() ))
 
     def tree_building(self):
-        tree = [ Vertex(_, []) for _ in range(self.n)]
+        tree = [ Vertex( _ , [])  for _ in range(self.n)]
 
         for node_index in range(self.n):
             parent_index = self.parent[node_index]
