@@ -1,5 +1,7 @@
-THE USACO TRAINING PROGRAM GATEWAY https://train.usaco.org/
+Some coding practices
 
-The goal is to improve my programing skills.
 
-Hope these codes could useful for people who are also interested in solving USCAO problems.
+Part I: USACO TRAINING PROGRAM GATEWAY https://train.usaco.org/
+
+
+Part II: Data Structures and Algorithms Specialization from coursera (https://www.coursera.org/specializations/data-structures-algorithms)
