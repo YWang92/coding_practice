@@ -2,21 +2,6 @@
 
 import sys
 
-def reach(adj, x, y):
-    visited = []
-    to_explore = [x]
-    while to_explore:
-        curr = to_explore.pop()
-        visited.append(curr)
-        neighbors = adj[curr]
-        for neighbor in neighbors:
-            if neighbor not in visited:
-                to_explore.append(neighbor)
-    if y in visited:
-        return 1
-    else:
-        return 0
-
 
 def number_of_components(adj):
     result = 0
