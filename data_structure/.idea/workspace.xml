@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f09799da-223d-4052-897d-5fa874399526" name="Changes" comment="renaming files">
+      <change afterPath="$PROJECT_DIR$/../algorithmic_toolbox/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../algorithmic_toolbox/dynamic_programming/partitioning_sovenirs/data.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../algorithmic_toolbox/dynamic_programming/partitioning_sovenirs/partition3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week1_basic_data_structures/check_bracket/check_bracket.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week1_basic_data_structures/check_bracket/unittest_check_bracket.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week1_basic_data_structures/max_sliding_window/max_sliding_window.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week1_basic_data_structures/network_simulation/process_packages.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week1_basic_data_structures/stack_with_maximum/stack_with_max.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week1_basic_data_structures/test.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week1_basic_data_structures/tree_height/tree_height.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week1_basic_data_structures/tree_height/unittest_tree_height.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week1_basic_data_structures/week1_basic_data_structures.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week2_priority_queues/1_make_heap/build_heap.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week2_priority_queues/1_make_heap/tests/04" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week2_priority_queues/1_make_heap/tests/04.a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week2_priority_queues/2_job_queue/job_queue.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week2_priority_queues/2_job_queue/job_queue_slow.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week2_priority_queues/2_job_queue/tests/02" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week2_priority_queues/2_job_queue/tests/02.a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week2_priority_queues/2_job_queue/tests/08" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week2_priority_queues/2_job_queue/tests/08.a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week2_priority_queues/3_merging_tables/merging_tables.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week2_priority_queues/3_merging_tables/tests/116" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week2_priority_queues/3_merging_tables/tests/116.a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week2_priority_queues/week2_priority_queues_and_disjoint_sets.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week3_hash_tables/1_phone_book/phone_book.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week3_hash_tables/2_hash_chains/hash_chains.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week3_hash_tables/2_hash_chains/tests/06" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week3_hash_tables/2_hash_chains/tests/06.a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week3_hash_tables/week3_hash_tables.pdf" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="27LJIAYaTsEbtukWu14xKWQNEMj" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f09799da-223d-4052-897d-5fa874399526" name="Changes" comment="" />
+      <created>1649093350613</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1649093350613</updated>
+      <workItem from="1649093351851" duration="20345000" />
+    </task>
+    <task id="LOCAL-00001" summary="renaming files">
+      <created>1649093532843</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1649093532843</updated>
+    </task>
+    <task id="LOCAL-00002" summary="renaming files">
+      <created>1649093601759</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1649093601759</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="renaming files" />
+    <option name="LAST_COMMIT_MESSAGE" value="renaming files" />
+  </component>
+</project>
