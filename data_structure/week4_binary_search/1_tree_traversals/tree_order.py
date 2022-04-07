@@ -38,7 +38,6 @@ class TreeOrders:
         return result
 
     def preOrder(self):
-        left, right = self.left.copy(), self.right.copy()
         key_stack = [0]
         result = []
         while key_stack:
