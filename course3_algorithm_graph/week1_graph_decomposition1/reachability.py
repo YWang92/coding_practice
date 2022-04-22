@@ -2,6 +2,7 @@
 
 import sys
 
+
 def reach(adj, x, y):
     visited = []
     to_explore = [x]
